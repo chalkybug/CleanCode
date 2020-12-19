@@ -1,0 +1,2 @@
+Học về OOP trong Clean Code
+sử dụng SonarLint để tối ưu syntax
