@@ -11,3 +11,7 @@
 - Chứa các định nghĩa Bean trong Spring
 ## service
 - Chứa các lớp theo nghiệp vụ
+
+# Ghi chú
+- Đã làm xong chương trình tính lương v1.
+- V2 chưa làm
