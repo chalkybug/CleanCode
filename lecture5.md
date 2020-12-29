@@ -1,3 +1,4 @@
+## Các loại code smell
 Bloaters : code càng ngày càng sinh ra nhiều
 Change Preventers: muốn thay đổi thì khó thay đổi
 Couplers: Liên kết giữa các lớp khiến khó có thể thay đổi nếu thay đổi lớp
