@@ -28,4 +28,6 @@ public abstract class AbstractCustomer {
     protected void setTotalCost(float totalCost) {
         this.totalCost = totalCost;
     }
+
+    abstract float calculateMonthlyFee(CustomerInfo info);
 }
