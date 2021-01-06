@@ -14,4 +14,4 @@
 
 # Ghi chú
 - Đã làm xong chương trình tính lương v1.
-- V2 chưa làm
+- [Bài tập tính lương v2](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture3.2/payroll/src/main/java/net/luvina/payroll)
