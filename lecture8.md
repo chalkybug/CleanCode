@@ -6,3 +6,6 @@
 ## volatile
 - các thao tác ghi sẽ thực thiện trước thao tác đọc
 - Đọc trực tiếp từ main memory chứ k đọc qua cpu cache: java > cpu cache > main memory
+
+## lombok
+- Object sinh ra bởi @buider k phải immutable
