@@ -3,7 +3,6 @@ package usergetway.db;
 public class DBConnection {
 
     private DBConnection() throws InterruptedException {
-        Thread.sleep(1000);
         System.out.println("Initialized DB connection");
     }
 

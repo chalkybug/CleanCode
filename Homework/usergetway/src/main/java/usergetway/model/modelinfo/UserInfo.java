@@ -1,43 +1,24 @@
 package usergetway.model.modelinfo;
 
+import lombok.Builder;
+import lombok.Data;
+import usergetway.Enum.GenderEnum;
+
+@Data
+@Builder
 public class UserInfo {
-    public String name;
 
-    public String role;
+    private String ID;
 
-    public String address;
+    private String name;
 
-    public String getName() {
-        return name;
-    }
+    private String email;
 
-    public void setName(String name) {
-        this.name = name;
-    }
+    private int age;
 
-    public String getRole() {
-        return role;
-    }
+    private String role;
 
-    public void setRole(String role) {
-        this.role = role;
-    }
+    private GenderEnum gender;
 
-    public String getAddress() {
-        return address;
-    }
 
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
-    public String getGender() {
-        return gender;
-    }
-
-    public void setGender(String gender) {
-        this.gender = gender;
-    }
-
-    public String gender;
 }

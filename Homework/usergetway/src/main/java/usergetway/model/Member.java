@@ -7,7 +7,7 @@ import usergetway.Interface.IUser;
 
 @Data
 @Builder
-public class Admin implements IUser {
+public class Member implements IUser {
     private String ID;
 
     private String name;
@@ -20,6 +20,6 @@ public class Admin implements IUser {
 
     @Override
     public String said() {
-        return "I'm ADMIN";
+        return "I'm MEMBER";
     }
 }
