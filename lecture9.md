@@ -5,5 +5,5 @@
 2. Nếu bị hết conn trong pool thì sẽ tạo mới < max pool
 3. Nếu còn dư cố conn trong pool thì sẽ lấy , dùng xong sẽ trả lại pool
 
-## 
+## trong spring sẽ có thể inject trực tiếp vào map(tìm hiểu thêm)
 
