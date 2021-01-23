@@ -54,8 +54,10 @@
 
 
 
-
-
+## bài tập cuối khóa
+- Thiết kế Csdl
+- Áp dụng: Factory, Stagy 
+- Api
 
 
 
