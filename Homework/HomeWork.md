@@ -31,6 +31,14 @@ Bạn là một team lead, khi bạn giới thiệu các quy tắc Clean Code ch
 int calculateSalaryAfterYears(int initialSalary, int NthYear);
 ```
 
+5. 
+```
+Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
+1 User có thể viết nhiều bài Post, hoặc xoá
+1 User có thể viết Comment cho bài Post của người khác và chính mình. User có thể xoá comment của chính mình
+```
+
+
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
