@@ -51,7 +51,9 @@ Gõ link đến mã nguồn bài này vào đây
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 
 ## Phần 4: Thiết kế RESTful API
-
+- [source](course-restful-api)
 ## Phần 5: Lập trình Restful API
+- [source](course-restful-api-2)
 
 ## Trắc nghiệm
+- [Đáp án](Tracnghiem.md)
