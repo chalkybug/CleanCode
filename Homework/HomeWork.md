@@ -42,7 +42,7 @@ Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy b�
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-Gõ link đến mã nguồn bài này vào đây. Đừng comment code. Nếu thực sự CleanCode thì không cần comment vẫn hiểu được.
+- [source](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture4/05OOP/jungle/src/main/java/graphiceditor/after)
 
 ### 2. Composition over Inheritance và DI
 Gõ link đến mã nguồn bài này vào đây
