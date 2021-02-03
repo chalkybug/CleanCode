@@ -49,6 +49,11 @@ Gõ link đến mã nguồn bài này vào đây
 
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
+- Quan hệ giữa users và teachers: 1 - 1
+- Quan hệ giữa users và students: 1 - 1
+- Quan hệ giữa teachers và courses: quan hệ 1 - n
+- Quan hệ giữa courses và students: quan hệ n - n
+![alt](https://github.com/chalkybug/CleanCode/blob/main/Homework/bai3.PNG)
 
 ## Phần 4: Thiết kế RESTful API
 - [source](course-restful-api)
