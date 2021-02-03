@@ -8,7 +8,7 @@
    - Mục tiêu 2:  Làm tăng giá trị cho công việc bằng code của mình
    - Mục tiêu 3:  Clean code mang lại sự dễ hiểu và chất lượng khi chúng ta đọc code.
    - Mục tiêu 4:  Điều cần thiết là code của bạn phải sạch sẽ và dễ đọc để mọi người có thể tìm thấy và dễ dàng hiểu.
-   - Mục tiêu 5:  luôn tìm ra nguyên nhân gốc rễ. luôn luôn tìm kiếm nguyên nhân gốc rễ của một vấn đề(nháp)
+   - Mục tiêu 5:  Để tiết kiệm thời gian bảo trì và mở rộng.
 2. **Đáp án của tôi là team C bởi vì:**
    - Lý do 1: Tiến độ là yếu tố quan trọng quyết định sự thành bại của dự án. Deadline luôn phải được ưu tiên.
    - Lý do 2: Nếu code một cách tự do ở SPIN 1 để đáp ứng dealine nhưng sẽ phải tốn nhiều thời gian và nhân lực cho những SPIN sau để khắc phục những đoạn `code smell` là một điều tệ.
