@@ -37,12 +37,12 @@ Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy b�
 1 User có thể viết nhiều bài Post, hoặc xoá
 1 User có thể viết Comment cho bài Post của người khác và chính mình. User có thể xoá comment của chính mình
 ```
-- [source](https://github.com/chalkybug/CleanCode/tree/main/Homework/user-post-management/src/main/java/userpost)
+- Link đến mã nguồn: [source](https://github.com/chalkybug/CleanCode/tree/main/Homework/user-post-management/src/main/java/userpost)
 
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-- [source](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture4/05OOP/jungle/src/main/java/graphiceditor/after)
+- Link đến mã nguồn: [source](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture4/05OOP/jungle/src/main/java/graphiceditor/after)
 
 ### 2. Composition over Inheritance và DI
 Gõ link đến mã nguồn bài này vào đây
@@ -56,9 +56,9 @@ Gõ link đến mã nguồn bài này vào đây
 ![alt](https://github.com/chalkybug/CleanCode/blob/main/Homework/bai3.PNG)
 
 ## Phần 4: Thiết kế RESTful API
-- [source](course-restful-api)
+- Link đến mã nguồn: [source](course-restful-api)
 ## Phần 5: Lập trình Restful API
-- [source](course-restful-api-2)
+- Link đến mã nguồn: [source](course-restful-api-2)
 
 ## Trắc nghiệm
-- [Đáp án](Tracnghiem.md)
+- Link đến mã nguồn: [Đáp án](Tracnghiem.md)
