@@ -3,7 +3,6 @@ package userpost.model;
 import lombok.Builder;
 import lombok.Data;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Data
@@ -20,15 +19,12 @@ public class Post {
 
     private List<Comment> comments;
 
-
     void addComment(Comment comment) {
         comments.add(comment);
-        System.out.println("Comment added");
     }
 
     public void deleteComment(Comment comment) {
         comments.remove(comment);
-        System.out.println("Comment deleted");
     }
 
 

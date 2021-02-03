@@ -20,7 +20,6 @@ public class User {
 
     private List<Comment> comments;
 
-
     public Post writePost(String title, String content) {
         Post post = Post.builder()
                 .title(title)
@@ -31,8 +30,8 @@ public class User {
         return post;
     }
 
-    public Comment writeComent(String title, Post post) {
-        Comment comment = Comment.builder().title(title).build();
+    public Comment writeComment(String title, Post post) {
+        Comment comment = Comment.builder().title(title).post(post).build();
         post.addComment(comment);
         comments.add(comment);
         return comment;

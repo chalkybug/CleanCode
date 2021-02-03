@@ -17,16 +17,17 @@ public class UserPostApplication {
                 .comments(new ArrayList<>())
                 .build();
         Post post1 = user1.writePost("Post 1", "Content post 1");
-        Comment comment1 = user1.writeComent("Comment 1", post1);
+        Post post2 = user1.writePost("Post 2", "Content post 2");
+        Comment comment1 = user1.writeComment("Comment 1", post1);
 
         User user2 = User.builder()
                 .fullName("B")
                 .posts(new ArrayList<>())
                 .comments(new ArrayList<>())
                 .build();
-        Post post2 = user2.writePost("Post 1", "Content post 1");
-        Comment comment2 = user2.writeComent("Comment 1", post2);
-
+        Post post3 = user2.writePost("Post 3", "Content post 3");
+        Comment comment2 = user2.writeComment("Comment 2", post3);
+        Comment comment3 = user1.writeComment("Comment 3", post3);
         try {
             user1.deleteComment(comment1);
             user2.deleteComment(comment2);
