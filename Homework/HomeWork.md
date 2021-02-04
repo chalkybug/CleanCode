@@ -45,7 +45,7 @@ Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy b�
 - Link đến mã nguồn: [source](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture4/05OOP/jungle/src/main/java/graphiceditor/after)
 
 ### 2. Composition over Inheritance và DI
-Gõ link đến mã nguồn bài này vào đây
+- Link đến mã nguồn: [source](car-dependency-injection)
 
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
