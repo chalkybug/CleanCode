@@ -1,5 +1,8 @@
 # Composition over Inheritance và DI
 
+## Chạy ứng dụng ở địa chỉ
+- http://localhost:8080/cars
+
 ## Phân tích đầu bài
 1. dùng chung một hệ thống khung sườn, => cố định
 2. hệ thống điều khiển tự lái thông minh => thay đổi trong lúc chạy
@@ -12,4 +15,5 @@
       2. electric engine
     
 ## Chi tiết
+(updating)
 
