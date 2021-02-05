@@ -1,8 +1,11 @@
 # CleanCode
-## [Note lý thuyết](https://github.com/chalkybug/CleanCode/blob/main/Menu.md)
+## Bài tập cuối khóa
+- [bài tập](https://github.com/chalkybug/CleanCode/blob/main/Homework/HomeWork.md)
+## Note lý thuyết
+- [Note lý thuyết](https://github.com/chalkybug/CleanCode/blob/main/Menu.md)
 
 
-## Bài tập
+## Bài tập 
 1. [Bài tập tính lương](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture3/payroll/src/main/java/net/luvina/payroll)
 
 2. [Bài tập Generic](https://github.com/chalkybug/CleanCode/tree/main/Homework/Homework_lecture4/05OOP/jungle/src/main/java/generic)
